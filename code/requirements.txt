@@ -1,2 +1,2 @@
 mysql-connector-python=3.0.0
-bottle-0.12.15
+bottle=0.12.15
